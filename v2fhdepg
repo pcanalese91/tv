@@ -1,0 +1,159 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="149dtv.cl" tvg-name="01 TVN HD" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1497887276142-Imagen.jpg", Tvn
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35296
+
+#EXTINF:-1 tvg-id="152dtv.cl" tvg-name="02 CANAL 13 HD" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1521816306435-Imagen.jpg",Canal 13
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35305
+
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="03- MEGA HD" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1517489672694-Imagen.jpg",Mega
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35299
+
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="04- CHV HD" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1524492609560-Imagen.png",Chv
+hhttp://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/3530
+
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="05- La Red HD" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1622478136301-Imagen.jpg",La Red
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35309
+
+#EXTINF:-1 tvg-id="24horas.cl" tvg-name="06- CANAL 24 HORAS HD" group-title="Noticias" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1541011782979-Imagen.jpg",Canal 24 Horas
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35171
+
+#EXTINF:-1 tvg-id="707dtv.cl" tvg-name="07- CNN CHILE HD" group-title="Noticias" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490108534771-Imagen.jpg",Cnn Chile
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35180
+
+#EXTINF:-1 tvg-id="202dtv.cl" tvg-name="08- STAR CHANNEL HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1614001203436-Imagen.png",Star Channel
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313042
+
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="09- TNT HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490025650314-Imagen.jpg",Tnt
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313047
+
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="09- TNT HD series" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490025650314-Imagen.jpg",Tnt series
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313048
+
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="10 - CINECANAL HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1542390761498-Imagen.png",Cinecanal
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313035
+
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="11- CINEMAX HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490025365868-Imagen.jpg",Cinemax
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313036
+
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="12- FX HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490031776416-Imagen.jpg",Fx
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313038
+
+#EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="13- HBO HD" group-title="Peliculas y Series" tvg-logo="http://imgfz.com/i/34WCopM.jpeg",Hbo
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313040
+
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="13- HBO HD 2" group-title="Peliculas y Series" tvg-logo="http://imgfz.com/i/34WCopM.jpeg",Hbo 2
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313052
+
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="14- HBO FAMILY HD" group-title="Peliculas y Series" tvg-logo="http://imgfz.com/i/IrC0mxQ.jpeg",Hbo Family
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313051
+
+#EXTINF:-1 tvg-id="1510dtv.cl" tvg-name="15- PARAMOUNT HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1586896345799-Imagen.jpg",Paramount
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313041
+
+#EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="16- SONY HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1566399981932-Imagen.png",Sony
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313043
+
+#EXTINF:-1 tvg-id="518dtv.cl" tvg-name="17- Space HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1576592131464-Imagen.png",Space
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313044
+
+#EXTINF:-1 tvg-id="508dtv.cl" tvg-name="18- Studio Universal HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1600782586425-Imagen.png",Universal Channel
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313045
+
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="19- WARNNER CHANNEL HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1542390612614-Imagen.png",Warner Channel
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313050
+
+#EXTINF:-1 tvg-id="732dtv.cl" tvg-name="20- DISCOVERY HD" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490041711536-Imagen.jpg",Discovery
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313142
+
+#EXTINF:-1 tvg-id="742dtv.cl" tvg-name="21- HISTORY CHANNEL HD" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1645025091628-Imagen.png",History Channel
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313133
+
+#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="22- NATGEO HD" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1532010301216-Imagen.jpg",Nat Geo
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313135
+
+#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="23- ANIMAL PLANET" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1549889652615-Imagen.png",Animal Planet
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313144
+
+#EXTINF:-1 tvg-id="865mvstr.cl" tvg-name="24- LOVE NATURE" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1648742844301-Imagen.png",Love Nature
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313137
+
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="25- COMDEY CENTRAL" group-title="Entretención" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1592490840237-Imagen.png",Comedy Central
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313170
+
+#EXTINF:-1 tvg-id="" tvg-name="26- LAS ESTRELLAS HD" group-title="Entretención" tvg-logo="http://imgfz.com/i/oMFhawu.jpeg",Las Estrellas
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313173
+
+#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="27- TLNOVELAS" group-title="Entretención" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1549897303996-Imagen.png",TL Novelas
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313105
+
+#EXTINF:-1 tvg-id="231dtv.cl" tvg-name="28- TELEMUNDO" group-title="Entretención" tvg-logo="https://yt3.googleusercontent.com/dDIM8c2aTQ4GNL4aAyb0oigTZd13kVJ54ejFFx0UvSL6tSDIRU5c19JeFKh8p4OYs0nPpVeMez4=s176-c-k-c0x00ffffff-no-rj",Telemundo
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302728
+
+#EXTINF:-1 tvg-id="304dtv.cl" tvg-name="29- CARTOON NETWORK HD" group-title="Infantiles" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490103676198-Imagen.jpg",Cartoon Network
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313150
+
+#EXTINF:-1 tvg-id="" tvg-name="30- ETC TV" group-title="Infantiles" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490101626384-Imagen.jpg",Etc
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313162
+
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-name="31- NICKELODEON HD" group-title="Infantiles" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490102858978-Imagen.jpg",Nickelodeon
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313153
+
+#EXTINF:-1 tvg-id="312dtv.cl" tvg-name="32- DISNEY CHANNEL HD" group-title="Infantiles" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1585771306956-Imagen.png",Disney Channel
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313152
+
+#EXTINF:-1 tvg-id="229dtv.cl" tvg-name="33- DISCOVERY H&H HD" group-title="Hogar y Familia" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490104656662-Imagen.jpg",Discovery H&H
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313128
+
+#EXTINF:-1 tvg-id="232dtv.cl" tvg-name="34- EL GOURMET HD" group-title="Hogar y Familia" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1648740566317-Imagen.png",El Gourmet
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35047
+
+#EXTINF:-1 tvg-id="mtv.cl" tvg-name="35- MTV HD" group-title="Música y Audio" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490110818646-Imagen.jpg",Mtv
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35018
+
+#EXTINF:-1 tvg-id="261dtv.cl" tvg-name="35- MTV HD HITS" group-title="Música y Audio" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/261.png",Mtv Hits
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35019
+
+#EXTINF:-1 tvg-id="https://mi.tv/cl/canales/zona-latina" tvg-name="36- ZONA LATINA" group-title="Música y Audio" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1628525984083-Imagen.png",Zona Latina
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35012
+
+#EXTINF:-1 tvg-id="" tvg-name="37- VIAX" group-title="Música y Audio" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490109714367-Imagen.jpg",ViaX
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/51
+
+#EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="38- ESPN HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490019008122-Imagen.jpg",Espn
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312849
+
+#EXTINF:-1 tvg-id="431dtv.cl" tvg-name="39- ESPN 2 HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490019253983-Imagen.jpg",Espn 2
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312850
+
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="40- ESPN 3 HD" group-title="Deportes" tvg-logo="http://imgfz.com/i/lrkEnCX.jpeg",Espn 3
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/123654
+
+#EXTINF:-1 tvg-id="608dtv.cl" tvg-name="41- ESPN 4" group-title="Deportes" tvg-logo="http://imgfz.com/i/1muPgr9.jpeg",Espn 4
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312851
+
+#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="43- FOX SPORTS 1 HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1525358679716-Imagen.png",Fox Sports 1
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34632
+
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="44- FOX SPORT 2 HD" group-title="Deportes" tvg-logo="http://imgfz.com/i/s7g2mne.jpeg",Fox Sports 2
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34635
+
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="45- FOX SPORT 3 HD" group-title="Deportes" tvg-logo="http://imgfz.com/i/WeOu6D5.jpeg",Fox Sports 3
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34638
+
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="46- TNT SPORTS HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1610972217631-Imagen.png",Tnt Sports
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34676
+
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-name="46- TNT SPORTS HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1610972217631-Imagen.png",Tnt Sports 2
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/124014
+
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="46- TNT SPORTS HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1610972217631-Imagen.png",Tnt Sports 3
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/123887
+
+#EXTINF:-1 tvg-name="47- RADIO CAROLINA" group-title="Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_Radio_Carolina_2020.png",Radio Carolina
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-name="48- FM2" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4ucHCg8xnR.jpeg",Radio Fm2
+http://24383.live.streamtheworld.com:80/FMDOS_SC
+
+#EXTINF:-1 tvg-name="49- RADIO CORAZON" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/HmHnrRp9Ts.jpeg",Radio Corazón
+http://26493.live.streamtheworld.com:80/CORAZON_SC
