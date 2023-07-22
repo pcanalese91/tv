@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="01 Tvn" group-title="Nacionales" tvg-logo="https://ibb.co/c1fNdxT",Tvn
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/265
+#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://ibb.co/YjsTVft",Canal 13
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/214
+#EXTINF:-1 tvg-name="03 Mega" group-title="Nacionales" tvg-logo="https://ibb.co/FHHVhND",Mega
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/244
+#EXTINF:-1 tvg-name="04 Chv" group-title="Nacionales" tvg-logo="https://ibb.co/60htxYG",Chv
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/212
+#EXTINF:-1 tvg-name="05 La Red" group-title="Nacionales" tvg-logo="https://ibb.co/nLfzFbF",La Red
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/243
+#EXTINF:-1 tvg-name="06 Tv+" group-title="Nacionales" tvg-logo="https://ibb.co/Jd788zt",Tv+
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/273
+#EXTINF:-1 tvg-name="07 Canal 24 Horas" group-title="Nacionales" tvg-logo="https://ibb.co/TKwnt6Q",Canal 24 Horas
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/215
+#EXTINF:-1 tvg-name="08 Cnn Chile" group-title="Nacionales" tvg-logo="https://ibb.co/m5y7yzV",Cnn Chile
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/213
+#EXTINF:-1 tvg-name="09 Star Channel" group-title="Peliculas y Series" tvg-logo="https://ibb.co/tCy1mdT",Star Channel
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/251
+#EXTINF:-1 tvg-name="10 Tnt" group-title="Peliculas y Series" tvg-logo="https://ibb.co/jrfqMnw",Tnt
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/261
+#EXTINF:-1 tvg-name="11 Tnt Series" group-title="Peliculas y Series" tvg-logo="https://ibb.co/wM9Q3dq",Tnt Series
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/263
+#EXTINF:-1 tvg-name="12 Cine Canal" group-title="Peliculas y Series" tvg-logo="https://ibb.co/6FJnYWh",Cine Canal
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/217
+#EXTINF:-1 tvg-name="13 CineMax" group-title="Peliculas y Series" tvg-logo="https://ibb.co/0JJX6Xm",CineMax
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/218
+#EXTINF:-1 tvg-name="14 Fx" group-title="Peliculas y Series" tvg-logo="https://ibb.co/kMk70LN",Fx
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/233
+#EXTINF:-1 tvg-name="15 Hbo" group-title="Peliculas y Series" tvg-logo="https://ibb.co/4YwgFmn",Hbo
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
+#EXTINF:-1 tvg-name="16 Hbo 2" group-title="Peliculas y Series" tvg-logo="https://ibb.co/Rzyxcky",Hbo 2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4182
+#EXTINF:-1 tvg-name="17 Hbo Family" group-title="Peliculas y Series" tvg-logo="https://ibb.co/7p4JLrk",Hbo Family
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
+#EXTINF:-1 tvg-name="18 Paramount" group-title="Peliculas y Series" tvg-logo="https://ibb.co/G0HZgVc",Paramount
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/248
+#EXTINF:-1 tvg-name="19 Sony" group-title="Peliculas y Series" tvg-logo="https://ibb.co/khpV0bv",Sony
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/257
+#EXTINF:-1 tvg-name="20 Space" group-title="Peliculas y Series" tvg-logo="https://ibb.co/vsm8qnX",Space
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/258
+#EXTINF:-1 tvg-name="21 Universal Channel" group-title="Peliculas y Series" tvg-logo="https://ibb.co/HVVW6hr",Universal Channel
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/259
+#EXTINF:-1 tvg-name="22 Warner Tv" group-title="Peliculas y Series" tvg-logo="https://ibb.co/rdfDnY6",Warner Tv
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/267
+#EXTINF:-1 tvg-name="23 Discovery" group-title="Cultura" tvg-logo="https://ibb.co/mqzpL7Z",Discovery
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/222
+#EXTINF:-1 tvg-name="24 History Channel" group-title="Cultura" tvg-logo="https://ibb.co/1nnH0x6",History Channel
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/241
+#EXTINF:-1 tvg-name="25 Nat Geo" group-title="Cultura" tvg-logo="https://ibb.co/CJRpdLK",Nat Geo
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/245
+#EXTINF:-1 tvg-name="26 Animal Planet" group-title="Cultura" tvg-logo="https://ibb.co/MGT0xSf",Animal Planet
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/211
+#EXTINF:-1 tvg-name="27 Love Nature" group-title="Cultura" tvg-logo="https://ibb.co/0mQkSCx",Love Nature
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4189
+#EXTINF:-1 tvg-name="28 Comedy Central" group-title="Entretención" tvg-logo="https://ibb.co/J301xkM",Comedy Central
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
+#EXTINF:-1 tvg-name="29 Las Estrellas" group-title="Entretención" tvg-logo="https://ibb.co/P485D7h",Las Estrellas
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4319
+#EXTINF:-1 tvg-name="30 Tlnovelas" group-title="Entretención" tvg-logo="https://ibb.co/4pLj0Vd",Tlnovelas
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/194
+#EXTINF:-1 tvg-name="31 Telemundo" group-title="Entretención" tvg-logo="https://ibb.co/RB66HZ1",Telemundo
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3924
+#EXTINF:-1 tvg-name="32 Discovery Kids" group-title="Infantiles"" tvg-logo="https://ibb.co/XydgvS0",Discovery Kids
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/223
+#EXTINF:-1 tvg-name="33 Cartoon Network" group-title="Infantiles"" tvg-logo="https://ibb.co/bQRc5Z0",Cartoon Network
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/216
+#EXTINF:-1 tvg-name="34 Etc" group-title="Infantiles"" tvg-logo="https://ibb.co/BGsGPPf",Etc
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/202
+#EXTINF:-1 tvg-name="35 Nickelodeon" group-title="Infantiles"" tvg-logo="https://ibb.co/QdQY0h3",Nickelodeon
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4226
+#EXTINF:-1 tvg-name="36 Disney Channel" group-title="Infantiles"" tvg-logo="https://ibb.co/qrxzmZ9",Disney Channel
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/226
+#EXTINF:-1 tvg-name="37 Discovery H&h" group-title="Infantiles"" tvg-logo="https://ibb.co/0MsDV82",Discovery H&h
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/221
+#EXTINF:-1 tvg-name="38 El Gourmet" group-title="Hogar y Familia" tvg-logo="https://ibb.co/Nn8GHXr",El Gourmet
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/231
+#EXTINF:-1 tvg-name="39 Mtv" group-title="Musicales" tvg-logo="https://ibb.co/WkmNdKS",Mtv
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4184
+#EXTINF:-1 tvg-name="40 Mtv Hits" group-title="Musicales" tvg-logo="https://ibb.co/r4Ct51g",Mtv Hits
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4185
+#EXTINF:-1 tvg-name="41 Zona Latina" group-title="Musicales" tvg-logo="https://ibb.co/0Fjv1Lf",Zona Latina
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
+#EXTINF:-1 tvg-name="42 ViaX" group-title="Musicales" tvg-logo="https://ibb.co/7XhzmZp",ViaX
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/51
+#EXTINF:-1 tvg-name="43 Espn" group-title="Deportes" tvg-logo="https://ibb.co/FWjHy8B",Espn
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/230
+#EXTINF:-1 tvg-name="44 Espn 2" group-title="Deportes" tvg-logo="https://ibb.co/71cbjP0",Espn 2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/227
+#EXTINF:-1 tvg-name="45 Espn 3" group-title="Deportes" tvg-logo="https://ibb.co/7kn3jJW",Espn 3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/228
+#EXTINF:-1 tvg-name="46 Espn 4" group-title="Deportes" tvg-logo="https://ibb.co/HP9MnmV",Espn 4
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4314
+#EXTINF:-1 tvg-name="47 Fox Sports 1" group-title="Deportes" tvg-logo="https://ibb.co/bX8b39w",Fox Sports 1
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/236
+#EXTINF:-1 tvg-name="48 Fox Sport 2" group-title="Deportes" tvg-logo="https://ibb.co/2Szq7DJ",Fox Sport 2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/232
+#EXTINF:-1 tvg-name="49 Fox Sport 3" group-title="Deportes" tvg-logo="https://ibb.co/fkWBYrb",Fox Sport 3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/237
+#EXTINF:-1 tvg-name="50 Tnt Sport 1" group-title="Deportes" tvg-logo="https://ibb.co/yyDrHVW",Tnt Sport 1
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/262
+#EXTINF:-1 tvg-name="51 Tnt Sport 2" group-title="Deportes" tvg-logo="https://ibb.co/DzWmZVS",Tnt Sport 2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/1
+#EXTINF:-1 tvg-name="52 Tnt Sport 3" group-title="Deportes" tvg-logo="https://ibb.co/DzWmZVS",Tnt Sport 3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/151
+#EXTINF:-1 tvg-name="53 Cdo" group-title="Deportes" tvg-logo="https://ibb.co/bPc7Wdc",Cdo
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/2
+#EXTINF:-1 tvg-name="54 Radio Carolina" group-title="Radios" tvg-logo="https://ibb.co/hR2yqJ7",Radio Carolina
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?WebM3UCL
+#EXTINF:-1 tvg-name="55 Radio Fm2" group-title="Radios" tvg-logo="https://ibb.co/P9Ny824",Radio Fm2
+http://24383.live.streamtheworld.com:80/FMDOS_SC
+#EXTINF:-1 tvg-name="56 Radio Corazón" group-title="Radios" tvg-logo="https://ibb.co/TTZ4nLJ",Radio Corazón
+http://26493.live.streamtheworld.com:80/CORAZON_SC
